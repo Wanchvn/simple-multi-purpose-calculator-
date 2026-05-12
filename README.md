@@ -66,17 +66,28 @@ http://localhost/Calculator
 
 
 📂 Project Structure
+
 Calculator/
-│
+
+
 ├── index.php
+
 ├── scripts/
+
 │   ├── simpleCal.php
+
 │   ├── BMICalculator.php
+
 │   ├── CompoundInterestCalculator.php
+
 │   ├── linearEq.php
+
 │   ├── quadratic.php
+
 │   ├── SimpleInterestCalculator.php
+
 │   ├── simultaneous.php
 │
 ├── styles/
+
 │   └── style.css
