@@ -87,7 +87,7 @@ Calculator/
 │   ├── SimpleInterestCalculator.php
 
 │   ├── simultaneous.php
-│
+
 ├── styles/
 
 │   └── style.css
